@@ -1,0 +1,12 @@
+C:\Users\adina\Desktop\piu\ACamera\bin\Debug\ACamera.dll
+C:\Users\adina\Desktop\piu\ACamera\bin\Debug\ACamera.pdb
+C:\Users\adina\Desktop\piu\ACamera\obj\Debug\ACamera.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\piu\ACamera\obj\Debug\ACamera.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\piu\ACamera\obj\Debug\ACamera.dll
+C:\Users\adina\Desktop\piu\ACamera\obj\Debug\ACamera.pdb
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\bin\Debug\ACamera.dll
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\bin\Debug\ACamera.pdb
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\obj\Debug\ACamera.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\obj\Debug\ACamera.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\obj\Debug\ACamera.dll
+C:\Users\adina\Desktop\CazareCaminProiect\ACamera\obj\Debug\ACamera.pdb
